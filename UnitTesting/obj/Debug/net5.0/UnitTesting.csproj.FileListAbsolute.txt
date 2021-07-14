@@ -1,0 +1,15 @@
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\UnitTesting.exe
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\UnitTesting.deps.json
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\UnitTesting.runtimeconfig.json
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\UnitTesting.runtimeconfig.dev.json
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\UnitTesting.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\ref\UnitTesting.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\bin\Debug\net5.0\UnitTesting.pdb
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfo.cs
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\ref\UnitTesting.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.pdb
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.genruntimeconfig.cache

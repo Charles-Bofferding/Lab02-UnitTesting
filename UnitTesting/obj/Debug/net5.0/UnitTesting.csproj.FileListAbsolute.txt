@@ -13,3 +13,4 @@ C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj
 C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\ref\UnitTesting.dll
 C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.pdb
 C:\Users\noctu\source\repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.genruntimeconfig.cache
+C:\Users\noctu\Source\Repos\Charles-Bofferding\Lab02-UnitTesting\UnitTesting\obj\Debug\net5.0\UnitTesting.csproj.AssemblyReference.cache

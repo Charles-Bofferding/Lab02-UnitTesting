@@ -24,6 +24,9 @@ namespace Test_Suite
         public void FirstWithdrawal()
         {
             decimal value = 200;
+            decimal current = Program.ViewBalance();
+            Program.Withdraw(current);
+            Program.Deposit(1000);
             Assert.Equal(800, Program.Withdraw(value));
         }
 
@@ -31,28 +34,40 @@ namespace Test_Suite
         public void FirstDeposit()
         {
             decimal value = 100;
-            Assert.Equal(900, Program.Deposit(value));
+            decimal current = Program.ViewBalance();
+            Program.Withdraw(current);
+            Program.Deposit(1000);
+            Assert.Equal(1100, Program.Deposit(value));
         }
 
         [Fact]
         public void SecondWithdrawal()
         {
             decimal value = 500;
-            Assert.Equal(400, Program.Withdraw(value));
+            decimal current = Program.ViewBalance();
+            Program.Withdraw(current);
+            Program.Deposit(1000);
+            Assert.Equal(500, Program.Withdraw(value));
         }
 
         //
         [Fact]
         public void SecondDeposit()
         {
-            decimal value = 8601;
+            decimal value = 8001;
+            decimal current = Program.ViewBalance();
+            Program.Withdraw(current);
+            Program.Deposit(1000);
             Assert.Equal(9001, Program.Deposit(value));
         }
 
         [Fact]
         public void EndBalance()
         {
-            Assert.Equal(9001, Program.ViewBalance());
+            decimal current = Program.ViewBalance();
+            Program.Withdraw(current);
+            Program.Deposit(1000);
+            Assert.Equal(1000, Program.ViewBalance());
         }
 
     }
